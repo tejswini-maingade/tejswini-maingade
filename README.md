@@ -54,8 +54,6 @@ I enjoy designing CI/CD pipelines, containerizing applications, managing infrast
 ## 📚 Currently Learning
 
 - GitOps
-- ArgoCD
-- Helm
 - AWS EKS
 - Azure DevOps
 
