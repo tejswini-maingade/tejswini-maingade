@@ -4,7 +4,6 @@
 </div>
 
 ---
-
 <img align="right" alt="DevOps-Girl" width="380" src="assets/DevOps-Girl.gif"/>
 
 
