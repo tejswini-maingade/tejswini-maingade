@@ -36,8 +36,6 @@ I believe in continuous learning, hands-on problem solving, and adopting DevOps 
 
 </div>
 
----
-
 
 <div align="center">
 
@@ -88,8 +86,6 @@ I believe in continuous learning, hands-on problem solving, and adopting DevOps 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
----
-
 
 <h1 align="center"> Let's Connect</h1>
 
@@ -114,7 +110,6 @@ I believe in continuous learning, hands-on problem solving, and adopting DevOps 
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 
----
 
 
 <p align="center">
