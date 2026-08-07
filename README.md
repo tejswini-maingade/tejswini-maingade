@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=38&duration=5000&pause=500&color=4169E1&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B++I'm+Tejswini" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=38&duration=5000&pause=500&color=059669&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B++I'm+Tejswini" />
 </div>
 
 ---
@@ -23,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&duration=3000&color=4F46E5&center=true&vCenter=true&width=600&lines=Professional+Summary" alt="Professional Summary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&duration=3000&color=ffffff&center=true&vCenter=true&width=600&lines=Professional+Summary" alt="Professional Summary" />
 </div>
 
 
@@ -43,7 +42,7 @@ I believe in continuous learning, hands-on problem solving, and adopting DevOps 
 
 </div>
 
-<h2 align="center">⚡ Technical Stack ⚡</h2>
+<h2 align="center">🛠️ Technical Stack ⚙️</h2>
 
 
 <h3 align="center">
@@ -141,7 +140,7 @@ I believe in continuous learning, hands-on problem solving, and adopting DevOps 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&text=See%20You%20Again!&fontColor=ffffff&fontSize=30&animation=twinkling&color=0:9333EA,100:3B82F6"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=30&animation=twinkling&color=0:9333EA,100:3B82F6"/> 
 <h2 align="center">
 
 <p align="center">
