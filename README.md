@@ -4,6 +4,7 @@
 </div>
 
 ---
+
 <img align="right" alt="DevOps-Girl" width="380" src="assets/DevOps-Girl.gif"/>
 
 
@@ -19,7 +20,6 @@
 
 
 
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&duration=3000&color=ffffff&center=true&vCenter=true&width=600&lines=Professional+Summary" alt="Professional Summary" />
