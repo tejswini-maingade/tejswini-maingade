@@ -121,13 +121,9 @@ I believe in continuous learning, hands-on problem solving, and adopting DevOps 
   </a>
 </p>
 
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tejswini-maingade&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tejswini-maingade&theme=github-dark-blue&hide_border=true" />
 </p>
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tejswini-maingade/tejswini-maingade/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
