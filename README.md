@@ -132,8 +132,6 @@ I believe in continuous learning, hands-on problem solving, and adopting DevOps 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejswini-maingade&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
-
 <br><br>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tejswini-maingade&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
